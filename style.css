@@ -1,0 +1,42 @@
+/*
+Program name: style.css
+Author: Your Name
+Date created: 02/23/2026
+Date last edited: 02/23/2026
+Version: 1.0
+Description: Styling for Patient Registration Form
+*/
+
+body {
+    background-color: #f4f8fb;
+    font-family: Arial, sans-serif;
+}
+
+h1 {
+    color: #003366;
+}
+
+h2 {
+    color: #0066cc;
+}
+
+#banner {
+    background-color: #cce6ff;
+    padding: 15px;
+    text-align: center;
+}
+
+#footer {
+    background-color: #003366;
+    color: white;
+    padding: 10px;
+    text-align: center;
+}
+
+a {
+    color: blue;
+}
+
+a:visited {
+    color: purple;
+}
